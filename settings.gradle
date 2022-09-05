@@ -1,0 +1,6 @@
+include ':feature_page_preview'
+include ':feature_filter_image'
+include ':common'
+include ':app'
+rootProject.name = "DocScanner"
+include ':opencv-sdk3'

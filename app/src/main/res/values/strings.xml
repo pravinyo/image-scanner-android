@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DocScanner</string>
+    <string name="error_dialog_title">Internal Error</string>
+    <string name="error_dialog_message">Something went wrong!</string>
+    <string name="error_dialog_button_caption">OK</string>
+    <string name="display_current_image">display current image</string>
+    <string name="navigate_previous_screen">navigate previous screen</string>
+    <string name="undo_current_action">undo current action</string>
+    <string name="change_contrast">change contrast</string>
+    <string name="save_image_changes">save image changes</string>
+    <string name="share_page">Share page</string>
+    <string name="edit_page">Edit Page</string>
+    <string name="rotate_page_right">Rotate Page to Right</string>
+    <string name="rotate_page_left">Rotate Page to Left</string>
+    <string name="edit_title_of_the_page">edit title of the page</string>
+    <string name="as_picture">as Picture</string>
+    <string name="as_pdf">as PDF</string>
+</resources>
