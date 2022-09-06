@@ -79,12 +79,11 @@ class FilterFragment : BaseFragment() {
             }
 
             binding.undoButton.setOnClickListener {
-                Toast.makeText(requireContext(), "undoing", Toast.LENGTH_SHORT).show()
                 viewModel.undo()
+                refreshImage()
             }
 
             binding.contrastButton.setOnClickListener {
-                Toast.makeText(requireContext(), "negative filter", Toast.LENGTH_SHORT).show()
                 viewModel.negativeFilter()
                 refreshImage()
             }
