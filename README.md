@@ -19,3 +19,6 @@ MVP app for document scanner
     2. Use below PAT token, to access package from my account.
         - Just add below token for `gpr.key` in github.properties  
           Token: `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`
+
+# Image scanner repo details:          
+It uses image scanner (https://github.com/pravinyo/image-scanner) for image processing and handling
